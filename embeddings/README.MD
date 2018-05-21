@@ -1,0 +1,1 @@
+Download multilingual word embeddings for french and german from [here](https://github.com/facebookresearch/MUSE)
